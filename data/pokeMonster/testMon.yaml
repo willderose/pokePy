@@ -1,0 +1,39 @@
+!pokeMonster
+NAME: 'testMonster'
+
+POKEMON_TYPES:
+- !type_Electric
+- !type_Bug
+
+# Stats
+HEALTH_POINTS: !stat_HealthPoints 70
+ATTACK: !stat_Attack 77
+DEFENSE: !stat_Defense 60
+SPECIAL: !stat_Special 97
+SPECIAL_ATTACK: !stat_SpecialAttack 97
+SPECIAL_DEFENSE: !stat_SpecialDefense 60
+SPEED: !stat_Speed 108
+FRIENDSHIP: 70
+
+# Classification data
+NUMBER: 596
+DESCRIPTION: null
+CATEGORY: null
+COLOR: null
+SHAPE: null
+FOOTPRINT: null
+HEIGHT: 80
+WEIGHT: 14.3
+
+# Egg data
+EGG_GROUP: null
+HATCH_TIME: 20
+
+# Learn set
+LEARN_SET: !learnSets_testMon
+
+# Miscellaneous battle data
+EXPERIENCE_CURVE: !xpCurve_MediumFast
+XP_YIELD: 165
+EV_YIELD:
+  Speed: 2

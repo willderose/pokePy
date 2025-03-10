@@ -1,0 +1,9 @@
+!learnSet
+BY_BREEDING: null
+BY_LEVEL_UP:
+  1:
+    - !moves_absorb
+    - !moves_furyCutter
+    - !moves_electroWeb
+  2:
+    - !moves_bugBite

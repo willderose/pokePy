@@ -1,0 +1,9 @@
+!pokeMove
+ACCURACY: 95
+CATEGORY: 'Special'
+DESCRIPTION: null
+EFFECTS: null
+MOVE_TYPE: !type_Electric
+NAME: 'Electro Web'
+POWER: 55
+POWER_POINTS: 15

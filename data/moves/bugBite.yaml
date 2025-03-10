@@ -1,0 +1,9 @@
+!pokeMove
+ACCURACY: 100
+CATEGORY: 'Physical'
+DESCRIPTION: null
+EFFECTS: null
+MOVE_TYPE: !type_Bug
+NAME: 'Bug Bite'
+POWER: 60
+POWER_POINTS: 20

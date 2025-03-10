@@ -1,0 +1,9 @@
+!pokeMove
+ACCURACY: 100
+CATEGORY: 'Special'
+DESCRIPTION: null
+EFFECTS: null
+MOVE_TYPE: !type_Grass
+NAME: 'Absorb'
+POWER: 20
+POWER_POINTS: 20

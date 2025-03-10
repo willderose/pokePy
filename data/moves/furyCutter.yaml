@@ -1,0 +1,9 @@
+!pokeMove
+ACCURACY: 95
+CATEGORY: 'Physical'
+DESCRIPTION: null
+EFFECTS: null
+MOVE_TYPE: !type_Bug
+NAME: 'Fury Cutter'
+POWER: 40
+POWER_POINTS: 20
